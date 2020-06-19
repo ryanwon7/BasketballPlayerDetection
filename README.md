@@ -1,6 +1,8 @@
 # Tracking and Classifying NBA Players in Basketball Videos
 #### Ryan Won CS83
-##Important to Note
+Final Paper listed as Won-TrackingAndClassifyingBasketballPlayersInVideos.pdf
+
+Important to Note
 The subdirectory cnn_models is not included in this repo as it contains the CNN outputs, which are too large to be stored 
 on github. The zip file containing them and the information/data about them are attached in the BBLearn submission.
 Additionally, the project requires the file "mask_rcnn_coco.h5" to run training model. This file is avaialble in the 
